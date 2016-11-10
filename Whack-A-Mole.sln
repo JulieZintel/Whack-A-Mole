@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ECFCFBAE-29D9-9F89-1F88-41E2BA997373}") = "Whack-A-Mole", "Assembly-CSharp.csproj", "{2177BC72-AEE7-3C93-71FE-F7485F5DF6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2177BC72-AEE7-3C93-71FE-F7485F5DF6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2177BC72-AEE7-3C93-71FE-F7485F5DF6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2177BC72-AEE7-3C93-71FE-F7485F5DF6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2177BC72-AEE7-3C93-71FE-F7485F5DF6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
