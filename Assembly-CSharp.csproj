@@ -48,7 +48,7 @@
      <Compile Include="Assets\Scripts\Hole.cs" />
      <Compile Include="Assets\Scripts\Mole.cs" />
      <Compile Include="Assets\Scripts\ScoreManager.cs" />
-     <None Include="Assets\bubble_soap\Terms of Use End User Lisence Agreement.txt" />
+     <None Include="Assets\Fonts\bubble_soap\Terms of Use End User Lisence Agreement.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
