@@ -5,6 +5,7 @@ public class Hole : MonoBehaviour {
 	// Mole Prefab
 	public GameObject mole;
 	public float aliveTime = 1;
+	public int scoreValue = 10;
 
 	// Spawn Interval
 	public int intervalMin = 4;
@@ -21,16 +22,10 @@ public class Hole : MonoBehaviour {
 
 		// Make sure to destroy it after a few seconds
 		Destroy(g, aliveTime);
+		ScoreManager.score += scoreValue;
+
 
 		// Next Spawn
 		Invoke("Spawn", Random.Range(intervalMin, intervalMax));
 	}
-
-	//----score count---------------------
-	void OnCollisionEnter2D(Collision2D other){
-		if(other.gameObject.name == "Mole") // If the fish and fisherman collide.
-		{
-			Destroy(other.gameObject); // Destroys the fish.
-			score += 1; // 1 point is added to the player's score.
-		}
 }
