@@ -4,7 +4,10 @@ using System.Collections;
 
 public class ScoreManager : MonoBehaviour
 {
-	public static int score;        // The player's score.
+	public static int score;
+	public static int totalScore; // The player's score.
+	public int score1;
+
 
 
 	Text text;                      // Reference to the Text component.
@@ -17,6 +20,7 @@ public class ScoreManager : MonoBehaviour
 
 		// Reset the score.
 		score = 0;
+		score1 = score;
 	}
 
 
@@ -24,5 +28,7 @@ public class ScoreManager : MonoBehaviour
 	{
 		// Set the displayed text to be the word "Score" followed by the score value.
 		text.text = "Score: " + score;
+		score1 = score;
 	}
+
 }

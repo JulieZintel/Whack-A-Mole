@@ -1,0 +1,13 @@
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/UnityEngine.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/UnityEditor.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Mono.Cecil.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Unity.DataContract.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/JulieZintel/Whack-A-Mole/Temp/bin/Debug/Mono.Cecil.Mdb.dll
